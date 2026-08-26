@@ -2,7 +2,7 @@
 
 A full A/B test analysis and management-facing Shiny dashboard evaluating a cart redesign, built around the actual methodology a rigorous experimentation review would expect: randomization validation before touching outcomes, appropriate tests matched to variable type, a robustness check where test assumptions are questionable, and a segment-consistency check before recommending a rollout.
 
-**Live app:** *(add your shinyapps.io URL here)*
+**Live app:** *https://drewschoenbauer.shinyapps.io/111stores-cart-ab-test/*
 
 ## What it does
 
